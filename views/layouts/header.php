@@ -41,7 +41,7 @@
 
             </ul>
             <ul class="nav navbar-nav navbar-right">
-                <li><a href="http://beejee.loc/user"><span class="glyphicon glyphicon-log-in"></span> Login</a></li>
+                <li><a href="http://beejee.loc/user"><span class="glyphicon glyphicon-log-in"></span> Registration</a></li>
             </ul>
         </div>
     </div>

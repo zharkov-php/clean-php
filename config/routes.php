@@ -14,6 +14,6 @@ return array (
 
     'task' => 'task/index',
     'tz' => 'site/tz',
-    'user' => 'user/index',
+    'user' => 'user/register',
     '' => 'site/index',
 );
