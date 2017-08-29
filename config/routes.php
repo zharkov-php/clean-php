@@ -14,6 +14,13 @@ return array (
 
     'task' => 'task/index',
     'tz' => 'site/tz',
+
+
+    'user/login' => 'user/login',
+    'user/logout' => 'user/logout',
+
+    'cabinet/edit' => 'cabinet/edit',
+    'cabinet' => 'cabinet/index',
     'user' => 'user/register',
     '' => 'site/index',
 );

@@ -7,7 +7,7 @@
             <div class="panel-heading">
                 <p>Name:  <?php echo $tasks['name'];?></p>
                 <p>Email: <?php echo $tasks['email'];?></p>
-
+                <p>Изменить задачу</p>
             </div>
             <div class="panel-body">
 
