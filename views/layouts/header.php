@@ -41,7 +41,13 @@
 
             </ul>
             <ul class="nav navbar-nav navbar-right">
-                <li><a href="http://beejee.loc/user"><span class="glyphicon glyphicon-log-in"></span> Login</a></li>
+
+                <li><a href="/user/login"><span class="glyphicon glyphicon-log-in"></span> Login</a></li>
+
+
+
+                    <li><a href="/user/logout"><span class="glyphicon glyphicon-log-in"></span> Exit</a></li>
+
             </ul>
         </div>
     </div>

@@ -1,8 +1,8 @@
 <?php
 
 return array(
-    'host' => 'localhost',
-    'dbname' => 'beejee',
-    'user' => 'root',
-    'password' => '',            
+    'host' => 'zha.mysql.ukraine.com.ua',
+    'dbname' => 'zha_beejee',
+    'user' => 'zha_beejee',
+    'password' => 's4prm37d',
 );
