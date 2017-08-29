@@ -14,7 +14,7 @@ class SiteController {
 {
 
     $latestTasks = array();
-    $latestTasks = Task::getLatestTasks(3);
+    $latestTasks = Task::getLatestTasks(9);
     require_once(ROOT . '/views/site/index.php');
     return true;
 }

@@ -14,8 +14,7 @@ error_reporting(E_ALL);//на продакшн выключить
 //2)Подключение файлов системы
 //Create components/Router
 define('ROOT', dirname(__FILE__));
-require_once(ROOT. '/components/Router.php');
-require_once(ROOT.'/components/Db.php');
+require_once(ROOT.'/components/Autoload.php');
 //2)Установка соединения с БД
 //3)Вызов Router
   $router = new Router();

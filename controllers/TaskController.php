@@ -18,6 +18,8 @@ class TaskController
         // $tasks = array();
          //$tasks = Task::getTask();
         $tasks = Task::getTaskById($taskId);
+
+
         require_once(ROOT . '/views/task/view.php');
         return true;
     }

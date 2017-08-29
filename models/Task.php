@@ -8,7 +8,7 @@
 
 class Task
 {
-    const SHOW_BY_DEFAULT = 3;
+    const SHOW_BY_DEFAULT = 9;
 
     public static function getLatestTasks($count = self::SHOW_BY_DEFAULT, $page = 1)
     {
